@@ -1,3 +1,7 @@
 body {
     background-color: lightgreen;
 }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
